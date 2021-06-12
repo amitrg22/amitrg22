@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming in Python and working with databases.
 - 🌱 I’m currently learning Python programming basics
 - 💞️ I’m looking to collaborate on Python projects
-- 📫 How to reach me via email.
+- 📫 Reach me via email.
 
 <!---
 amitrg22/amitrg22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
